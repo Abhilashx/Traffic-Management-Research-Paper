@@ -29,7 +29,7 @@ and prioritize them at intersections.
 ---
 
 ## 📄 Full Research Paper
-📥📥 [Download Research Paper (DOCX)](RESEARCH_APAPER_UPDATED[1][1] (2).)
+📥 [Download Research Paper (DOCX)](repaper/Traffic_Sense_Research_Paper.docx)
 
 ---
 
